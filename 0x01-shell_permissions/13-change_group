@@ -1,2 +1,2 @@
-#!/bin/bash
-chown -hR vimcemt staff .
+#!/bin/bashls
+chgrp school hello
